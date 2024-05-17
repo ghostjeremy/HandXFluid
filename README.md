@@ -17,8 +17,8 @@ Our implementation uses Unity and the Meta XR All-in-One SDK for VR development,
 Watch the demo video [here](https://www.youtube.com/watch?v=GQpZb-ERgT8).
 
 ## Technologies Used
-- Unity
-- Meta XR All-in-One SDK
+- Unity 2022.3.23f1
+- Meta XR All-in-One SDK Version 64.0.0
 - GPU compute shaders
 
 ## Installation
